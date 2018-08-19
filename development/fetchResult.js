@@ -1,7 +1,7 @@
 const request = require('request-promise');
 const cheerio = require('cheerio');
 const fsc = require('fs-cheerio');
-const constants = require('./getConstants.js');
+const constants = require('./constants.js');
 
 function getResult(resultURL, sRollNo, sCollege) {
   const resultFetchOptions = {

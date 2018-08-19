@@ -7,15 +7,9 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch POST",
-            "program": "${workspaceFolder}/snippets/sendPOST.js"
+            "name": "Launch DEMO",
+            "program": "${workspaceFolder}/development/index.js"
         },
-        // {
-        //     "type": "node",
-        //     "request": "launch",
-        //     "name": "Launch GET",
-        //     "program": "${workspaceFolder}/snippets/sendGET.js"
-        // },
         {
             "type": "node",
             "request": "launch",
