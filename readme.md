@@ -8,3 +8,8 @@
 - find a html parser, similar to beautifulsoup (jsdom, x-ray, ?)
 - a in-memory database for when the data gets too large, (lokijs)
 
+## Specifics
+
+- what happens is image isn't downloaded with result.
+- simply download all results, add images to correct places & you are done.
+
