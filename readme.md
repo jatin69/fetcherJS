@@ -1,5 +1,7 @@
 # Fetcher-js
 
+Javascript Version of [fetcher](https://github.com/jatin69/fetcher) made to improve upon concurrency.
+
 ### todo
 
 - Concurrency is the MAJOR goal here
